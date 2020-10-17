@@ -5,6 +5,8 @@ installation du composer
 creation d'un projet laravel :
 
      composer create-project --prefer-dist laravel/laravel  nom du dossier
+     
+     composer create-project --prefer-dist laravel/laravel:^7.0 blog
 
 lancer le projet :
 
