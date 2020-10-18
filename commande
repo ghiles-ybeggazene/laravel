@@ -1,4 +1,9 @@
 
-creation d'un model 
+creation d'un model
 
 php artisan make:model Article --migration
+
+
+creation d'un controleur
+
+php artisan make:controller ArticleController --resource
