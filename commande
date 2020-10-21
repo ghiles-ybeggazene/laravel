@@ -12,3 +12,7 @@ php artisan make:model Article --migration
 creation d'un controleur
 
 php artisan make:controller ArticleController --resource
+
+voir tous les routes 
+
+php artisan route:list
