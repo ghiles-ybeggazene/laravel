@@ -10,3 +10,6 @@ $php artisan migrate
 
 creation des model  
 $php artisan make:model Comment
+
+creation des controllers 
+$php artisan make:controller CommentsController
