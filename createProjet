@@ -3,7 +3,7 @@ pour creer le projet
 $ composer create-project --prefer-dist laravel/laravel:^7.0 blog
 
 pour la creation des tables de la base de donnee  
-$ php artisan make:migration createCommentsTable
+$php artisan make:migration create_users_table
 
 pour la creation
 $php artisan migrate
